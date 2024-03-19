@@ -1,5 +1,5 @@
 import 'game-2048/style/main.css';
-import Game from 'game-2048';
+import Game from 'hayoung';
 
 var gameContainerDiv = document.createElement('div');
 gameContainerDiv.setAttribute('id', 'game-container');
